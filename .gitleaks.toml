@@ -1,0 +1,6 @@
+[allowlist]
+paths = [
+  'test/.*',
+  'cypress/.*',
+  'frontend/src/app/.*\.spec\.ts'
+]
